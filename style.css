@@ -1,0 +1,22 @@
+/*http://paletton.com/#uid=6550T0kej9fbNkzbmeRhDe4kuiq*/
+
+body {
+	width: 100%;
+	border-sizing: border-box;
+}
+
+.container {
+	width: 70%;
+	margin: 10px auto;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.buttons {
+	display: flex;
+}
+
+button {
+	background: #231F33;
+	border: none;
+	display: inline-block;
+}
